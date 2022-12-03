@@ -1,2 +1,7 @@
 # Laptop88-Data-Crawler
-just something
+This is created for education purposes
+
+usage:
+npm install (install required packages)
+
+node index.js (run the code)
